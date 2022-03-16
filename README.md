@@ -9,7 +9,13 @@ https://UbaldoCorrea13.github.io/Animated-hoot-cup-of-tea/
   ![GitHub top language](https://img.shields.io/github/languages/top/UbaldoCorrea13/Animated-hot-cup-of-tea?style=flat-square)
 
 
-![image](https://user-images.githubusercontent.com/92760416/157249623-7c36c89f-bcf1-4eab-b32b-76de4cc7eedc.png)
+![Animated hot cup of tea](https://user-images.githubusercontent.com/92760416/158536099-21abf280-45d7-48b8-9dba-627736653130.gif)
+<br><br>
 
+  
+## 🛠  &nbsp;technologies
 
+This project was built using the following technologies and features:
 
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
